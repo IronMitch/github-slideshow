@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+_Italics are the coolest_ Unless you don't like italics :)
 Use the left arrow to go back!
 Yay!
